@@ -1,0 +1,22 @@
+{
+	"date": "2019-01-07 18:26",
+	"level": "impossible",
+	"red": [{
+		"login": "antleblanc",
+		"type": "human",
+		"score": 480,
+		"goal": 3,
+		"decisive_pass": 1,
+		"stop": 1,
+		"shot": 6
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 20,
+		"goal": 1,
+		"decisive_pass": 0,
+		"stop": 0,
+		"shot": 0
+	}]
+}
