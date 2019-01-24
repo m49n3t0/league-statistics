@@ -1,0 +1,51 @@
+{
+	"level": "impossible",
+	"blue": [{
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"score": 180,
+			"type": "human",
+			"shot": 3,
+			"login": "magneto"
+		},
+		{
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"score": 115,
+			"type": "human",
+			"shot": 0,
+			"login": "jp"
+		}
+	],
+	"date": "2019-01-14 18:23:00",
+	"red": [{
+			"goal": 2,
+			"pass": 0,
+			"stop": 1,
+			"score": 290,
+			"type": "bot",
+			"shot": 4,
+			"login": "beast"
+		},
+		{
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"score": 130,
+			"type": "bot",
+			"shot": 1,
+			"login": "cougar"
+		},
+		{
+			"goal": 0,
+			"pass": 2,
+			"stop": 0,
+			"score": 105,
+			"type": "bot",
+			"shot": 1,
+			"login": "fury"
+		}
+	]
+}
