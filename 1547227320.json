@@ -1,0 +1,44 @@
+{
+  "level"  : "pro",
+  "blue"  : [
+              {
+                "goal"  : 4,
+                "pass"  : 1,
+                "stop"  : 0,
+                "score"  : 470,
+                "type"  : "human",
+                "shot"  : 4,
+                "login"  : "goldenboy"
+              },
+              {
+                "goal"  : 3,
+                "pass"  : 0,
+                "stop"  : 0,
+                "score"  : 275,
+                "type"  : "human",
+                "shot"  : 2,
+                "login"  : "magneto"
+              }
+            ],
+  "date"  : "2019-01-11 18:22:00",
+  "red"  : [
+             {
+               "goal"  : 0,
+               "pass"  : 0,
+               "stop"  : 1,
+               "score"  : 125,
+               "type"  : "bot",
+               "shot"  : 2,
+               "login"  : "merlin"
+             },
+             {
+               "goal"  : 0,
+               "pass"  : 0,
+               "stop"  : 0,
+               "score"  : 25,
+               "type"  : "bot",
+               "shot"  : 0,
+               "login"  : "amstrong"
+             }
+           ]
+}
