@@ -1,0 +1,51 @@
+{
+	"level": "impossible",
+	"blue": [{
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"score": 170,
+			"type": "human",
+			"shot": 2,
+			"login": "magneto"
+		},
+		{
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"score": 165,
+			"type": "human",
+			"shot": 3,
+			"login": "jp"
+		}
+	],
+	"date": "2019-01-18 09:29:00",
+	"red": [{
+			"goal": 3,
+			"pass": 0,
+			"stop": 1,
+			"score": 330,
+			"type": "bot",
+			"shot": 3,
+			"login": "sundown"
+		},
+		{
+			"goal": 2,
+			"pass": 1,
+			"stop": 2,
+			"score": 270,
+			"type": "bot",
+			"shot": 3,
+			"login": "storm"
+		},
+		{
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"score": 70,
+			"type": "bot",
+			"shot": 0,
+			"login": "casper"
+		}
+	]
+}
