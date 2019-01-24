@@ -1,0 +1,53 @@
+{
+  "level"  : "impossible",
+  "blue"  : [
+              {
+                "goal"  : 3,
+                "pass"  : 0,
+                "stop"  : 2,
+                "score"  : 445,
+                "type"  : "human",
+                "shot"  : 4,
+                "login"  : "magneto"
+              },
+              {
+                "goal"  : 1,
+                "pass"  : 1,
+                "stop"  : 0,
+                "score"  : 230,
+                "type"  : "human",
+                "shot"  : 2,
+                "login"  : "antx"
+              }
+            ],
+  "date"  : "2019-01-08 16:52:00",
+  "red"  : [
+             {
+               "goal"  : 3,
+               "pass"  : 0,
+               "stop"  : 0,
+               "score"  : 360,
+               "type"  : "bot",
+               "shot"  : 6,
+               "login"  : "khan"
+             },
+             {
+               "goal"  : 0,
+               "pass"  : 0,
+               "stop"  : 1,
+               "score"  : 125,
+               "type"  : "bot",
+               "shot"  : 2,
+               "login"  : "sabretooth"
+             },
+             {
+               "goal"  : 0,
+               "pass"  : 0,
+               "stop"  : 1,
+               "score"  : 45,
+               "type"  : "bot",
+               "shot"  : 0,
+               "login"  : "iceman"
+             }
+           ]
+}
