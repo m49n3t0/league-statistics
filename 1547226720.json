@@ -1,0 +1,42 @@
+{
+	"level": "pro",
+	"blue": [{
+			"goal": 2,
+			"pass": 1,
+			"stop": 0,
+			"score": 340,
+			"type": "human",
+			"shot": 4,
+			"login": "magneto"
+		},
+		{
+			"goal": 1,
+			"pass": 1,
+			"stop": 0,
+			"score": 160,
+			"type": "human",
+			"shot": 5,
+			"login": "goldenboy"
+		}
+	],
+	"date": "2019-01-11 18:12:00",
+	"red": [{
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"score": 85,
+			"type": "bot",
+			"shot": 1,
+			"login": "c-block"
+		},
+		{
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"score": 25,
+			"type": "bot",
+			"shot": 0,
+			"login": "scout"
+		}
+	]
+}
