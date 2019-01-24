@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-21 16:59:00",
+	"level": "impossible",
+	"red": [{
+		"login": "merlin",
+		"type": "bot",
+		"score": 340,
+		"goal": 2,
+		"pass": 2,
+		"stop": 0,
+		"shot": 6
+	}, {
+		"login": "bandit",
+		"type": "bot",
+		"score": 230,
+		"goal": 1,
+		"pass": 2,
+		"stop": 2,
+		"shot": 2
+	}, {
+		"login": "casper",
+		"type": "bot",
+		"score": 110,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "jp",
+		"type": "human",
+		"score": 345,
+		"goal": 2,
+		"pass": 1,
+		"stop": 2,
+		"shot": 6
+	}, {
+		"login": "magneto",
+		"type": "human",
+		"score": 185,
+		"goal": 1,
+		"pass": 1,
+		"stop": 1,
+		"shot": 2
+	}]
+}
