@@ -1,0 +1,53 @@
+{
+  "level"  : "impossible",
+  "blue"  : [
+              {
+                "goal"  : 2,
+                "pass"  : 0,
+                "stop"  : 0,
+                "score"  : 230,
+                "type"  : "human",
+                "shot"  : 3,
+                "login"  : "jp"
+              },
+              {
+                "goal"  : 1,
+                "pass"  : 1,
+                "stop"  : 0,
+                "score"  : 190,
+                "type"  : "human",
+                "shot"  : 3,
+                "login"  : "magneto"
+              }
+            ],
+  "date"  : "2019-01-14 18:09:00",
+  "red"  : [
+             {
+               "goal"  : 3,
+               "pass"  : 1,
+               "stop"  : 1,
+               "score"  : 410,
+               "type"  : "bot",
+               "shot"  : 5,
+               "login"  : "middy"
+             },
+             {
+               "goal"  : 4,
+               "pass"  : 2,
+               "stop"  : 0,
+               "score"  : 355,
+               "type"  : "bot",
+               "shot"  : 3,
+               "login"  : "hollywood"
+             },
+             {
+               "goal"  : 1,
+               "pass"  : 0,
+               "stop"  : 1,
+               "score"  : 145,
+               "type"  : "bot",
+               "shot"  : 1,
+               "login"  : "sabretooth"
+             }
+           ]
+}
