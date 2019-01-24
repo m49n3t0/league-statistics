@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-21 18:36:00",
+	"level": "impossible",
+	"red": [{
+		"login": "tex",
+		"type": "bot",
+		"score": 390,
+		"goal": 3,
+		"pass": 1,
+		"stop": 0,
+		"shot": 4
+	}, {
+		"login": "middy",
+		"type": "bot",
+		"score": 195,
+		"goal": 1,
+		"pass": 0,
+		"stop": 2,
+		"shot": 1
+	}, {
+		"login": "saltie",
+		"type": "bot",
+		"score": 55,
+		"goal": 0,
+		"pass": 0,
+		"stop": 0,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "antleblanc",
+		"type": "human",
+		"score": 415,
+		"goal": 3,
+		"pass": 0,
+		"stop": 2,
+		"shot": 4
+	}, {
+		"login": "magneto",
+		"type": "human",
+		"score": 200,
+		"goal": 0,
+		"pass": 1,
+		"stop": 1,
+		"shot": 2
+	}]
+}
