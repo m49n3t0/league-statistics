@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-23 13:52:00",
+	"level": "impossible",
+	"red": [{
+		"login": "casper",
+		"type": "bot",
+		"score": 270,
+		"goal": 3,
+		"pass": 0,
+		"stop": 1,
+		"shot": 3
+	}, {
+		"login": "poncho",
+		"type": "bot",
+		"score": 270,
+		"goal": 1,
+		"pass": 2,
+		"stop": 2,
+		"shot": 3
+	}, {
+		"login": "yuro",
+		"type": "bot",
+		"score": 100,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 570,
+		"goal": 6,
+		"pass": 0,
+		"stop": 1,
+		"shot": 5
+	}, {
+		"login": "jp",
+		"type": "human",
+		"score": 250,
+		"goal": 1,
+		"pass": 2,
+		"stop": 0,
+		"shot": 4
+	}]
+}
