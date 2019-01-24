@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-24 16:45:00",
+	"level": "impossible",
+	"red": [{
+		"login": "sultan",
+		"type": "bot",
+		"score": 115,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "boomer",
+		"type": "bot",
+		"score": 90,
+		"goal": 0,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "sundown",
+		"type": "bot",
+		"score": 75,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "jp",
+		"type": "human",
+		"score": 220,
+		"goal": 1,
+		"pass": 2,
+		"stop": 2,
+		"shot": 0
+	}, {
+		"login": "magneto",
+		"type": "human",
+		"score": 340,
+		"goal": 3,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}]
+}

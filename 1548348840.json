@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-21 16:54:00",
+	"level": "impossible",
+	"red": [{
+		"login": "cougar",
+		"type": "bot",
+		"score": 255,
+		"goal": 2,
+		"pass": 1,
+		"stop": 1,
+		"shot": 2
+	}, {
+		"login": "squall",
+		"type": "bot",
+		"score": 185,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "sultan",
+		"type": "bot",
+		"score": 85,
+		"goal": 0,
+		"pass": 1,
+		"stop": 0,
+		"shot": 0
+	}],
+	"blue": [{
+		"login": "jp",
+		"type": "human",
+		"score": 270,
+		"goal": 1,
+		"pass": 2,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "magneto",
+		"type": "human",
+		"score": 495,
+		"goal": 4,
+		"pass": 0,
+		"stop": 1,
+		"shot": 5
+	}]
+}
