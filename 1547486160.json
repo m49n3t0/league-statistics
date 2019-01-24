@@ -1,0 +1,51 @@
+{
+	"level": "impossible",
+	"blue": [{
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"score": 135,
+			"type": "human",
+			"shot": 2,
+			"login": "jp"
+		},
+		{
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"score": 115,
+			"type": "human",
+			"shot": 2,
+			"login": "magneto"
+		}
+	],
+	"date": "2019-01-14 18:16:00",
+	"red": [{
+			"goal": 2,
+			"pass": 0,
+			"stop": 1,
+			"score": 255,
+			"type": "bot",
+			"shot": 2,
+			"login": "c-block"
+		},
+		{
+			"goal": 1,
+			"pass": 1,
+			"stop": 1,
+			"score": 185,
+			"type": "bot",
+			"shot": 2,
+			"login": "viper"
+		},
+		{
+			"goal": 1,
+			"pass": 1,
+			"stop": 1,
+			"score": 145,
+			"type": "bot",
+			"shot": 1,
+			"login": "garwin"
+		}
+	]
+}
