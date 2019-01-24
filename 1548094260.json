@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-21 18:11:00",
+	"level": "impossible",
+	"red": [{
+		"login": "shepard",
+		"type": "bot",
+		"score": 435,
+		"goal": 4,
+		"pass": 0,
+		"stop": 0,
+		"shot": 6
+	}, {
+		"login": "caveman",
+		"type": "bot",
+		"score": 180,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "stinger",
+		"type": "bot",
+		"score": 140,
+		"goal": 0,
+		"pass": 2,
+		"stop": 1,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "antleblanc",
+		"type": "human",
+		"score": 335,
+		"goal": 2,
+		"pass": 2,
+		"stop": 1,
+		"shot": 3
+	}, {
+		"login": "magneto",
+		"type": "human",
+		"score": 275,
+		"goal": 2,
+		"pass": 0,
+		"stop": 3,
+		"shot": 1
+	}]
+}
