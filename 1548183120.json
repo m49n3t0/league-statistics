@@ -1,0 +1,46 @@
+{
+	"date": "2019-01-22 18:52:00",
+	"level": "impossible",
+	"red": [{
+		"login": "tusk",
+		"type": "bot",
+		"score": 495,
+		"goal": 5,
+		"pass": 2,
+		"stop": 0,
+		"shot": 4
+	}, {
+		"login": "marley",
+		"type": "bot",
+		"score": 330,
+		"goal": 2,
+		"pass": 3,
+		"stop": 0,
+		"shot": 5
+	}, {
+		"login": "hollywood",
+		"type": "bot",
+		"score": 250,
+		"goal": 2,
+		"pass": 1,
+		"stop": 0,
+		"shot": 5
+	}],
+	"blue": [{
+		"login": "steve",
+		"type": "human",
+		"score": 220,
+		"goal": 1,
+		"pass": 0,
+		"stop": 2,
+		"shot": 2
+	}, {
+		"login": "magneto",
+		"type": "human",
+		"score": 40,
+		"goal": 0,
+		"pass": 0,
+		"stop": 1,
+		"shot": 0
+	}]
+}
