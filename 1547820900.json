@@ -1,0 +1,51 @@
+{
+	"level": "impossible",
+	"blue": [{
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"score": 325,
+			"type": "human",
+			"shot": 3,
+			"login": "magneto"
+		},
+		{
+			"goal": 1,
+			"pass": 1,
+			"stop": 0,
+			"score": 185,
+			"type": "human",
+			"shot": 3,
+			"login": "jp"
+		}
+	],
+	"date": "2019-01-18 15:15:00",
+	"red": [{
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"score": 70,
+			"type": "bot",
+			"shot": 0,
+			"login": "khan"
+		},
+		{
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"score": 65,
+			"type": "bot",
+			"shot": 1,
+			"login": "boomer"
+		},
+		{
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"score": 60,
+			"type": "bot",
+			"shot": 0,
+			"login": "chipper"
+		}
+	]
+}
