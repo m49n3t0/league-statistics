@@ -1,0 +1,60 @@
+{
+	"date": "2019-01-25 17:47:00",
+	"level": "impossible",
+	"red": [{
+			"login": "storm",
+			"type": "bot",
+			"score": 360,
+			"goal": 2,
+			"pass": 2,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "dude",
+			"type": "bot",
+			"score": 260,
+			"goal": 3,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "junker",
+			"type": "bot",
+			"score": 80,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "sundown",
+			"type": "bot",
+			"score": 45,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "geoffrey",
+			"type": "human",
+			"score": 220,
+			"goal": 1,
+			"pass": 0,
+			"stop": 2,
+			"shot": 2
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 90,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		}
+	]
+}
