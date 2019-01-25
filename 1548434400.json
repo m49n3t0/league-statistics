@@ -1,0 +1,60 @@
+{
+	"date": "2019-01-25 17:40:00",
+	"level": "impossible",
+	"red": [{
+			"login": "squall",
+			"type": "bot",
+			"score": 155,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "viper",
+			"type": "bot",
+			"score": 85,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "foamer",
+			"type": "bot",
+			"score": 85,
+			"goal": 0,
+			"pass": 2,
+			"stop": 0,
+			"shot": 0
+		},
+		{
+			"login": "poncho",
+			"type": "bot",
+			"score": 25,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 0
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 245,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 185,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	]
+}
