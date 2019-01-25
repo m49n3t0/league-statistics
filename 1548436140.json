@@ -1,0 +1,42 @@
+{
+	"date": "2019-01-25 18:09:00",
+	"level": "allstar",
+	"red": [{
+			"login": "sticks",
+			"type": "bot",
+			"score": 370,
+			"goal": 4,
+			"pass": 0,
+			"stop": 1,
+			"shot": 4
+		},
+		{
+			"login": "khan",
+			"type": "bot",
+			"score": 135,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 385,
+			"goal": 2,
+			"pass": 4,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 480,
+			"goal": 5,
+			"pass": 1,
+			"stop": 0,
+			"shot": 5
+		}
+	]
+}
