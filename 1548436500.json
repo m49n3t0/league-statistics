@@ -1,0 +1,51 @@
+{
+	"date": "2019-01-25 17:15:00",
+	"level": "impossible",
+	"red": [{
+			"login": "mountain",
+			"type": "bot",
+			"score": 250,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 5
+		},
+		{
+			"login": "roundhouse",
+			"type": "bot",
+			"score": 195,
+			"goal": 1,
+			"pass": 1,
+			"stop": 2,
+			"shot": 1
+		},
+		{
+			"login": "slider",
+			"type": "bot",
+			"score": 95,
+			"goal": 0,
+			"pass": 0,
+			"stop": 2,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 285,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "jp",
+			"type": "human",
+			"score": 75,
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"shot": 2
+		}
+	]
+}
