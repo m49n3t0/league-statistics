@@ -1,0 +1,51 @@
+{
+	"date": "2019-01-28 15:46:00",
+	"level": "impossible",
+	"red": [{
+			"login": "armstrong",
+			"type": "bot",
+			"score": 315,
+			"goal": 2,
+			"pass": 1,
+			"stop": 1,
+			"shot": 4
+		},
+		{
+			"login": "rex",
+			"type": "bot",
+			"score": 175,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "beast",
+			"type": "bot",
+			"score": 65,
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"shot": 0
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 180,
+			"goal": 0,
+			"pass": 0,
+			"stop": 3,
+			"shot": 2
+		},
+		{
+			"login": "jp",
+			"type": "human",
+			"score": 145,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		}
+	]
+}
