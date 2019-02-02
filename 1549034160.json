@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-01 16:16:00",
+	"level": "impossible",
+	"red": [{
+			"login": "rainmaker",
+			"type": "bot",
+			"score": 320,
+			"goal": 3,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "boomer",
+			"type": "bot",
+			"score": 215,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 5
+		},
+		{
+			"login": "raja",
+			"type": "bot",
+			"score": 130,
+			"goal": 0,
+			"pass": 2,
+			"stop": 1,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 280,
+			"goal": 1,
+			"pass": 0,
+			"stop": 3,
+			"shot": 2
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 160,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 4
+		}
+	]
+}
