@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-01 16:31:00",
+	"level": "impossible",
+	"red": [{
+			"login": "fury",
+			"type": "bot",
+			"score": 310,
+			"goal": 2,
+			"pass": 2,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "chipper",
+			"type": "bot",
+			"score": 220,
+			"goal": 2,
+			"pass": 1,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "sundown",
+			"type": "bot",
+			"score": 90,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 160,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 55,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 0
+		}
+	]
+}
