@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-04 18:44:00",
+	"level": "impossible",
+	"red": [{
+			"login": "hound",
+			"type": "bot",
+			"score": 390,
+			"goal": 4,
+			"pass": 1,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "outlaw",
+			"type": "bot",
+			"score": 165,
+			"goal": 1,
+			"pass": 2,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "merlin",
+			"type": "bot",
+			"score": 85,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 135,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "antz",
+			"type": "human",
+			"score": 240,
+			"goal": 2,
+			"pass": 0,
+			"stop": 1,
+			"shot": 3
+		}
+	]
+}
