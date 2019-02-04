@@ -1,0 +1,51 @@
+{
+	"date": "2019-01-31 16:02:00",
+	"level": "impossible",
+	"red": [{
+			"login":raje",
+			"type": "bot",
+			"score": 115,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "caveman",
+			"type": "bot",
+			"score": 65,
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"shot": 0
+		},
+		{
+			"login": "stinger",
+			"type": "bot",
+			"score": 55,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 145,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "jp",
+			"type": "human",
+			"score": 425,
+			"goal": 3,
+			"pass": 0,
+			"stop": 1,
+			"shot": 5
+		}
+	]
+}

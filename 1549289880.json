@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-04 14:18:00",
+	"level": "impossible",
+	"red": [{
+			"login": "marley",
+			"type": "bot",
+			"score": 290,
+			"goal": 2,
+			"pass": 1,
+			"stop": 1,
+			"shot": 3
+		},
+		{
+			"login": "boomer",
+			"type": "bot",
+			"score": 135,
+			"goal": 1,
+			"pass": 1,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "rex",
+			"type": "bot",
+			"score": 110,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 175,
+			"goal": 1,
+			"pass": 1,
+			"stop": 1,
+			"shot": 3
+		},
+		{
+			"login": "jp",
+			"type": "human",
+			"score": 265,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 4
+		}
+	]
+}
