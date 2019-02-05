@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-05 12:00:00",
+	"level": "impossible",
+	"red": [{
+			"login": "tusk",
+			"type": "bot",
+			"score": 385,
+			"goal": 3,
+			"pass": 1,
+			"stop": 1,
+			"shot": 4
+		},
+		{
+			"login": "casper",
+			"type": "bot",
+			"score": 195,
+			"goal": 2,
+			"pass": 0,
+			"stop": 1,
+			"shot": 2
+		},
+		{
+			"login": "caveman",
+			"type": "bot",
+			"score": 115,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 230,
+			"goal": 2,
+			"pass": 1,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 215,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		}
+	]
+}
