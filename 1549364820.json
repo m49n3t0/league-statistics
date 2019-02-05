@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-05 12:07:00",
+	"level": "impossible",
+	"red": [{
+			"login": "middy",
+			"type": "bot",
+			"score": 145,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "sticks",
+			"type": "bot",
+			"score": 120,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "marley",
+			"type": "bot",
+			"score": 85,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 375,
+			"goal": 3,
+			"pass": 0,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 160,
+			"goal": 0,
+			"pass": 1,
+			"stop": 1,
+			"shot": 0
+		}
+	]
+}
