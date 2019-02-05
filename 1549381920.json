@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-05 16:52:00",
+	"level": "impossible",
+	"red": [{
+			"login": "viper",
+			"type": "bot",
+			"score": 205,
+			"goal": 1,
+			"pass": 1,
+			"stop": 1,
+			"shot": 2
+		},
+		{
+			"login": "roundhouse",
+			"type": "bot",
+			"score": 170,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		},
+		{
+			"login": "wolfman",
+			"type": "bot",
+			"score": 35,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 315,
+			"goal": 2,
+			"pass": 1,
+			"stop": 1,
+			"shot": 3
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 250,
+			"goal": 2,
+			"pass": 1,
+			"stop": 0,
+			"shot": 1
+		}
+	]
+}
