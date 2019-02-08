@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-07 19:45:00",
+	"level": "impossible",
+	"red": [{
+			"login": "bandit",
+			"type": "bot",
+			"score": 95,
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"shot": 2
+		},
+		{
+			"login": "caveman",
+			"type": "bot",
+			"score": 75,
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"shot": 1
+		},
+		{
+			"login": "squali",
+			"type": "bot",
+			"score": 80,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "antz",
+			"type": "human",
+			"score": 250,
+			"goal": 2,
+			"pass": 1,
+			"stop": 1,
+			"shot": 3
+		},
+		{
+			"login": "magneto",
+			"type": "human",
+			"score": 375,
+			"goal": 2,
+			"pass": 0,
+			"stop": 2,
+			"shot": 6
+		}
+	]
+}
