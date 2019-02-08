@@ -1,0 +1,42 @@
+{
+	"date": "2019-02-08 17:35:00",
+	"level": "allstar",
+	"red": [{
+			"login": "foamer",
+			"type": "bot",
+			"score": 315,
+			"goal": 3,
+			"pass": 1,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "tusk",
+			"type": "bot",
+			"score": 210,
+			"goal": 2,
+			"pass": 1,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 420,
+			"goal": 3,
+			"pass": 0,
+			"stop": 1,
+			"shot": 4
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 335,
+			"goal": 3,
+			"pass": 1,
+			"stop": 0,
+			"shot": 3
+		}
+	]
+}
