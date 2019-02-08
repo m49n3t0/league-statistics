@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-07 19:15:00",
+	"level": "impossible",
+	"red": [{
+			"login": "middy",
+			"type": "bot",
+			"score": 310,
+			"goal": 1,
+			"pass": 2,
+			"stop": 2,
+			"shot": 2
+		},
+		{
+			"login": "raja",
+			"type": "bot",
+			"score": 235,
+			"goal": 3,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "bandit",
+			"type": "bot",
+			"score": 115,
+			"goal": 0,
+			"pass": 2,
+			"stop": 0,
+			"shot": 0
+		}
+	],
+	"blue": [{
+			"login": "antz",
+			"type": "human",
+			"score": 130,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "magneto",
+			"type": "human",
+			"score": 130,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	]
+}

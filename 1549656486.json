@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-07 19:23:00",
+	"level": "impossible",
+	"red": [{
+			"login": "imp",
+			"type": "bot",
+			"score": 275,
+			"goal": 1,
+			"pass": 2,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "bandit",
+			"type": "bot",
+			"score": 200,
+			"goal": 2,
+			"pass": 1,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "mountain",
+			"type": "bot",
+			"score": 175,
+			"goal": 2,
+			"pass": 0,
+			"stop": 1,
+			"shot": 1
+		}
+	],
+	"blue": [{
+			"login": "antz",
+			"type": "human",
+			"score": 150,
+			"goal": 0,
+			"pass": 1,
+			"stop": 1,
+			"shot": 1
+		},
+		{
+			"login": "magneto",
+			"type": "human",
+			"score": 275,
+			"goal": 3,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		}
+	]
+}
