@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-05 15:33:00",
+	"level": "impossible",
+	"red": [{
+			"login": "sticks",
+			"type": "bot",
+			"score": 230,
+			"goal": 1,
+			"pass": 0,
+			"stop": 2,
+			"shot": 3
+		},
+		{
+			"login": "roundhouse",
+			"type": "bot",
+			"score": 115,
+			"goal": 1,
+			"pass": 0,
+			"stop": 1,
+			"shot": 1
+		},
+		{
+			"login": "stinger",
+			"type": "bot",
+			"score": 100,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		}
+	],
+	"blue": [{
+			"login": "antz",
+			"type": "human",
+			"score": 275,
+			"goal": 1,
+			"pass": 0,
+			"stop": 2,
+			"shot": 4
+		},
+		{
+			"login": "magneto",
+			"type": "human",
+			"score": 80,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	]
+}
