@@ -1,0 +1,76 @@
+{
+	"date": "2019-02-06 16:45:00",
+	"level": "debutant",
+	"red": [{
+			"login": "jester",
+			"type": "bot",
+			"score": 120,
+			"goal": 0,
+			"pass": 1,
+			"stop": 1,
+			"shot": 2
+		}, {
+			"login": "myrtle",
+			"type": "bot",
+			"score": 70,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 0
+		}, {
+			"login": "centice",
+			"type": "bot",
+			"score": 25,
+			"goal": 0,
+			"pass": 0,
+			"stop": 1,
+			"shot": 0
+		},
+		{
+			"login": "mountain",
+			"type": "bot",
+			"score": 20,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 0
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 485,
+			"goal": 3,
+			"pass": 1,
+			"stop": 1,
+			"shot": 6
+		},
+		{
+			"login": "marc",
+			"type": "human",
+			"score": 155,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "c-block",
+			"type": "bot",
+			"score": 55,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 0
+		},
+		{
+			"login": "slider",
+			"type": "bot",
+			"score": 10,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 0
+		}
+	]
+}
