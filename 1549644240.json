@@ -1,0 +1,42 @@
+{
+	"date": "2019-02-08 17:44:00",
+	"level": "allstar",
+	"red": [{
+			"login": "marley",
+			"type": "bot",
+			"score": 275,
+			"goal": 2,
+			"pass": 1,
+			"stop": 1,
+			"shot": 6
+		},
+		{
+			"login": "sabretooth",
+			"type": "bot",
+			"score": 135,
+			"goal": 1,
+			"pass": 0,
+			"stop": 0,
+			"shot": 2
+		}
+	],
+	"blue": [{
+			"login": "magneto",
+			"type": "human",
+			"score": 490,
+			"goal": 4,
+			"pass": 1,
+			"stop": 2,
+			"shot": 3
+		},
+		{
+			"login": "goldenboy",
+			"type": "human",
+			"score": 335,
+			"goal": 1,
+			"pass": 3,
+			"stop": 1,
+			"shot": 3
+		}
+	]
+}
