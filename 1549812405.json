@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-08 18:51:00",
+	"level": "impossible",
+	"red": [{
+			"login": "roundhouse",
+			"type": "bot",
+			"score": 200,
+			"goal": 2,
+			"pass": 0,
+			"stop": 0,
+			"shot": 3
+		},
+		{
+			"login": "sabretooth",
+			"type": "bot",
+			"score": 105,
+			"goal": 0,
+			"pass": 1,
+			"stop": 0,
+			"shot": 2
+		},
+		{
+			"login": "outisw",
+			"type": "bot",
+			"score": 10,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 0
+		}
+	],
+	"blue": [{
+			"login": "antz",
+			"type": "human",
+			"score": 390,
+			"goal": 3,
+			"pass": 0,
+			"stop": 1,
+			"shot": 3
+		},
+		{
+			"login": "magneto",
+			"type": "human",
+			"score": 125,
+			"goal": 0,
+			"pass": 2,
+			"stop": 1,
+			"shot": 1
+		}
+	]
+}
