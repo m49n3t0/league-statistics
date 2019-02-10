@@ -1,0 +1,51 @@
+{
+	"date": "2019-02-08 19:07:00",
+	"level": "impossible",
+	"red": [{
+			"login": "poncho",
+			"type": "bot",
+			"score": 175,
+			"goal": 1,
+			"pass": 0,
+			"stop": 1,
+			"shot": 1
+		},
+		{
+			"login": "caveman",
+			"type": "bot",
+			"score": 80,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 4
+		},
+		{
+			"login": "saltie",
+			"type": "bot",
+			"score": 15,
+			"goal": 0,
+			"pass": 0,
+			"stop": 0,
+			"shot": 0
+		}
+	],
+	"blue": [{
+			"login": "antz",
+			"type": "human",
+			"score": 580,
+			"goal": 4,
+			"pass": 0,
+			"stop": 2,
+			"shot": 7
+		},
+		{
+			"login": "magneto",
+			"type": "human",
+			"score": 230,
+			"goal": 2,
+			"pass": 2,
+			"stop": 0,
+			"shot": 3
+		}
+	]
+}
