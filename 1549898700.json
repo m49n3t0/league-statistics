@@ -1,0 +1,38 @@
+{
+	"date": "2019-02-11 16:25:00",
+	"level": "allstar",
+	"red": [{
+		"login": "rex",
+		"type": "bot",
+		"score": 210,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "roundhouser",
+		"type": "bot",
+		"score": 205,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 390,
+		"goal": 3,
+		"pass": 2,
+		"stop": 0,
+		"shot": 4
+	}, {
+		"login": "goldenboy",
+		"type": "human",
+		"score": 320,
+		"goal": 3,
+		"pass": 0,
+		"stop": 1,
+		"shot": 3
+	}]
+}
