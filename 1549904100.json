@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-11 17:55:00",
+	"level": "impossible",
+	"red": [{
+		"login": "c-block",
+		"type": "bot",
+		"score": 240,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "wolfman",
+		"type": "bot",
+		"score": 180,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "casper",
+		"type": "bot",
+		"score": 170,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 125,
+		"goal": 0,
+		"pass": 1,
+		"stop": 1,
+		"shot": 0
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 205,
+		"goal": 1,
+		"pass": 0,
+		"stop": 2,
+		"shot": 1
+	}]
+}
