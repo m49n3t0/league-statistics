@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-12 18:00:00",
+	"level": "impossible",
+	"red": [{
+		"login": "mountain",
+		"type": "bot",
+		"score": 435,
+		"goal": 4,
+		"pass": 2,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "saltie",
+		"type": "bot",
+		"score": 345,
+		"goal": 3,
+		"pass": 2,
+		"stop": 0,
+		"shot": 4
+	}, {
+		"login": "middy",
+		"type": "bot",
+		"score": 1665,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 325,
+		"goal": 3,
+		"pass": 0,
+		"stop": 0,
+		"shot": 4
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 330,
+		"goal": 2,
+		"pass": 0,
+		"stop": 3,
+		"shot": 3
+	}]
+}
