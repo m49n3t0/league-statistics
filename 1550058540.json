@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "stop" : 0,
+         "goal" : 2,
+         "type" : "human",
+         "pass" : 2,
+         "shot" : 4,
+         "login" : "magneto",
+         "score" : 300
+      },
+      {
+         "type" : "human",
+         "pass" : 0,
+         "stop" : 0,
+         "goal" : 2,
+         "login" : "jp",
+         "score" : 240,
+         "shot" : 3
+      }
+   ],
+   "level" : "impossible",
+   "red" : [
+      {
+         "pass" : 1,
+         "type" : "bot",
+         "stop" : 1,
+         "goal" : 2,
+         "login" : "hound",
+         "score" : 210,
+         "shot" : 2
+      },
+      {
+         "login" : "saltie",
+         "score" : 185,
+         "shot" : 3,
+         "type" : "bot",
+         "pass" : 1,
+         "goal" : 1,
+         "stop" : 1
+      },
+      {
+         "shot" : 2,
+         "score" : 70,
+         "login" : "goose",
+         "stop" : 0,
+         "goal" : 0,
+         "pass" : 0,
+         "type" : "bot"
+      }
+   ],
+   "date" : "2019-02-13 11:49:00"
+}

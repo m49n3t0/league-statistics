@@ -1,0 +1,53 @@
+{
+   "level" : "impossible",
+   "blue" : [
+      {
+         "shot" : 5,
+         "pass" : 2,
+         "type" : "human",
+         "score" : 515,
+         "login" : "magneto",
+         "stop" : 1,
+         "goal" : 4
+      },
+      {
+         "shot" : 3,
+         "type" : "human",
+         "score" : 280,
+         "login" : "jp",
+         "pass" : 1,
+         "stop" : 0,
+         "goal" : 2
+      }
+   ],
+   "red" : [
+      {
+         "goal" : 2,
+         "stop" : 0,
+         "score" : 240,
+         "login" : "wolfman",
+         "type" : "bot",
+         "pass" : 1,
+         "shot" : 3
+      },
+      {
+         "pass" : 1,
+         "score" : 160,
+         "login" : "roundhouse",
+         "type" : "bot",
+         "shot" : 1,
+         "stop" : 1,
+         "goal" : 1
+      },
+      {
+         "stop" : 0,
+         "goal" : 0,
+         "login" : "junker",
+         "score" : 80,
+         "type" : "bot",
+         "pass" : 1,
+         "shot" : 0
+      }
+   ],
+   "date" : "2019-02-13 11:42:00"
+}

@@ -1,0 +1,53 @@
+{
+   "date" : "2019-02-14 16:42:00",
+   "red" : [
+      {
+         "score" : 345,
+         "goal" : 3,
+         "login" : "sundown",
+         "shot" : 3,
+         "pass" : 0,
+         "stop" : 1,
+         "type" : "bot"
+      },
+      {
+         "goal" : 1,
+         "score" : 165,
+         "shot" : 2,
+         "login" : "rainmaker",
+         "pass" : 1,
+         "stop" : 0,
+         "type" : "bot"
+      },
+      {
+         "login" : "hound",
+         "shot" : 1,
+         "pass" : 0,
+         "score" : 60,
+         "goal" : 0,
+         "type" : "bot",
+         "stop" : 0
+      }
+   ],
+   "level" : "impossible",
+   "blue" : [
+      {
+         "login" : "jp",
+         "shot" : 5,
+         "pass" : 0,
+         "score" : 355,
+         "goal" : 3,
+         "type" : "human",
+         "stop" : 0
+      },
+      {
+         "stop" : 0,
+         "type" : "human",
+         "goal" : 0,
+         "score" : 80,
+         "pass" : 0,
+         "shot" : 1,
+         "login" : "magneto"
+      }
+   ]
+}

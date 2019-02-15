@@ -1,0 +1,53 @@
+{
+   "date" : "2019-02-14 16:50:00",
+   "blue" : [
+      {
+         "shot" : 6,
+         "score" : 395,
+         "goal" : 4,
+         "login" : "jp",
+         "stop" : 0,
+         "type" : "human",
+         "pass" : 0
+      },
+      {
+         "type" : "human",
+         "stop" : 0,
+         "pass" : 3,
+         "shot" : 5,
+         "score" : 370,
+         "goal" : 2,
+         "login" : "magneto"
+      }
+   ],
+   "level" : "impossible",
+   "red" : [
+      {
+         "type" : "bot",
+         "stop" : 0,
+         "pass" : 0,
+         "login" : "casper",
+         "goal" : 4,
+         "score" : 395,
+         "shot" : 5
+      },
+      {
+         "login" : "fury",
+         "goal" : 1,
+         "shot" : 3,
+         "score" : 240,
+         "type" : "bot",
+         "stop" : 1,
+         "pass" : 2
+      },
+      {
+         "shot" : 2,
+         "score" : 180,
+         "goal" : 2,
+         "login" : "iceman",
+         "stop" : 0,
+         "pass" : 0,
+         "type" : "bot"
+      }
+   ]
+}
