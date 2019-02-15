@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-15 19:17:00",
+	"level": "impossible",
+	"red": [{
+		"login": "marley",
+		"type": "bot",
+		"score": 455,
+		"goal": 4,
+		"pass": 1,
+		"stop": 1,
+		"shot": 3
+	}, {
+		"login": "chipper",
+		"type": "bot",
+		"score": 265,
+		"goal": 2,
+		"pass": 1,
+		"stop": 1,
+		"shot": 3
+	}, {
+		"login": "saltie",
+		"type": "bot",
+		"score": 100,
+		"goal": 0,
+		"pass": 2,
+		"stop": 0,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 180,
+		"goal": 0,
+		"pass": 1,
+		"stop": 1,
+		"shot": 3
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 380,
+		"goal": 4,
+		"pass": 0,
+		"stop": 0,
+		"shot": 4
+	}]
+}
