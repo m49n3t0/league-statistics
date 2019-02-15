@@ -1,0 +1,38 @@
+{
+	"date": "2019-02-13 20:11:00",
+	"level": "allstar",
+	"red": [{
+		"login": "gerwin",
+		"type": "bot",
+		"score": 125,
+		"goal": 1,
+		"pass": 0,
+		"stop": 1,
+		"shot": 0
+	}, {
+		"login": "chipper",
+		"type": "bot",
+		"score": 45,
+		"goal": 0,
+		"pass": 0,
+		"stop": 1,
+		"shot": 0
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 700,
+		"goal": 6,
+		"pass": 1,
+		"stop": 0,
+		"shot": 13
+	}, {
+		"login": "goldenboy",
+		"type": "human",
+		"score": 305,
+		"goal": 2,
+		"pass": 3,
+		"stop": 0,
+		"shot": 3
+	}]
+}
