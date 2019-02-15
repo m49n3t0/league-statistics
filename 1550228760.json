@@ -1,0 +1,53 @@
+{
+   "red" : [
+      {
+         "login" : "sticks",
+         "score" : 270,
+         "type" : "bot",
+         "stop" : 1,
+         "pass" : 0,
+         "shot" : 4,
+         "goal" : 3
+      },
+      {
+         "stop" : 1,
+         "score" : 85,
+         "login" : "samara",
+         "type" : "bot",
+         "pass" : 0,
+         "shot" : 1,
+         "goal" : 0
+      },
+      {
+         "shot" : 1,
+         "pass" : 0,
+         "goal" : 0,
+         "score" : 80,
+         "login" : "scout",
+         "type" : "bot",
+         "stop" : 1
+      }
+   ],
+   "level" : "impossible",
+   "date" : "2019-02-15 11:06:00",
+   "blue" : [
+      {
+         "stop" : 1,
+         "login" : "magneto",
+         "score" : 385,
+         "type" : "human",
+         "pass" : 1,
+         "shot" : 5,
+         "goal" : 3
+      },
+      {
+         "shot" : 6,
+         "pass" : 1,
+         "goal" : 2,
+         "stop" : 0,
+         "login" : "jp",
+         "score" : 315,
+         "type" : "human"
+      }
+   ]
+}

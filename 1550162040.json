@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "goal" : 3,
+         "stop" : 1,
+         "login" : "jp",
+         "type" : "human",
+         "score" : 445,
+         "pass" : 1,
+         "shot" : 4
+      },
+      {
+         "goal" : 1,
+         "stop" : 1,
+         "login" : "magneto",
+         "type" : "human",
+         "pass" : 1,
+         "score" : 195,
+         "shot" : 2
+      }
+   ],
+   "level" : "impossible",
+   "date" : "2019-02-14 16:34:00",
+   "red" : [
+      {
+         "login" : "roundhouse",
+         "stop" : 0,
+         "goal" : 1,
+         "shot" : 3,
+         "score" : 175,
+         "pass" : 0,
+         "type" : "bot"
+      },
+      {
+         "login" : "marley",
+         "stop" : 0,
+         "goal" : 0,
+         "shot" : 2,
+         "score" : 105,
+         "pass" : 1,
+         "type" : "bot"
+      },
+      {
+         "goal" : 0,
+         "stop" : 0,
+         "login" : "tusk",
+         "type" : "bot",
+         "pass" : 0,
+         "score" : 35,
+         "shot" : 1
+      }
+   ]
+}
