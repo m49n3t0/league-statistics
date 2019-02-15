@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-15 19:33:00",
+	"level": "impossible",
+	"red": [{
+		"login": "viper",
+		"type": "bot",
+		"score": 225,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 4
+	}, {
+		"login": "khan",
+		"type": "bot",
+		"score": 135,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 1
+	}, {
+		"login": "dude",
+		"type": "bot",
+		"score": 110,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 225,
+		"goal": 1,
+		"pass": 0,
+		"stop": 1,
+		"shot": 2
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 80,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 1
+	}]
+}
