@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-15 16:40:00",
+	"level": "impossible",
+	"red": [{
+		"login": "chipper",
+		"type": "bot",
+		"score": 490,
+		"goal": 5,
+		"pass": 0,
+		"stop": 2,
+		"shot": 5
+	}, {
+		"login": "mountain",
+		"type": "bot",
+		"score": 235,
+		"goal": 2,
+		"pass": 1,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "dude",
+		"type": "bot",
+		"score": 205,
+		"goal": 1,
+		"pass": 2,
+		"stop": 0,
+		"shot": 3
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 460,
+		"goal": 4,
+		"pass": 0,
+		"stop": 0,
+		"shot": 7
+	}, {
+		"login": "geoffrey",
+		"type": "human",
+		"score": 120,
+		"goal": 0,
+		"pass": 1,
+		"stop": 1,
+		"shot": 1
+	}]
+}
