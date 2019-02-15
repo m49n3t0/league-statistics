@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-15 16:14:00",
+	"level": "impossible",
+	"red": [{
+		"login": "sabretooth",
+		"type": "bot",
+		"score": 170,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "heater",
+		"type": "bot",
+		"score": 120,
+		"goal": 0,
+		"pass": 1,
+		"stop": 0,
+		"shot": 1
+	}, {
+		"login": "yuri",
+		"type": "bot",
+		"score": 120,
+		"goal": 0,
+		"pass": 1,
+		"stop": 0,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 505,
+		"goal": 5,
+		"pass": 1,
+		"stop": 0,
+		"shot": 6
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 355,
+		"goal": 3,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}]
+}
