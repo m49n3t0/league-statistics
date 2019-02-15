@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-12 18:26:00",
+	"level": "impossible",
+	"red": [{
+		"login": "poncho",
+		"type": "bot",
+		"score": 180,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "scout",
+		"type": "bot",
+		"score": 145,
+		"goal": 1,
+		"pass": 1,
+		"stop": 1,
+		"shot": 2
+	}, {
+		"login": "roundhouse",
+		"type": "bot",
+		"score": 120,
+		"goal": 1,
+		"pass": 0,
+		"stop": 1,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 215,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 385,
+		"goal": 2,
+		"pass": 2,
+		"stop": 1,
+		"shot": 6
+	}]
+}
