@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "shot" : 4,
+         "pass" : 0,
+         "goal" : 2,
+         "type" : "human",
+         "stop" : 0,
+         "login" : "magneto",
+         "score" : 200
+      },
+      {
+         "type" : "human",
+         "goal" : 2,
+         "shot" : 4,
+         "pass" : 1,
+         "score" : 285,
+         "login" : "jp",
+         "stop" : 0
+      }
+   ],
+   "level" : "impossible",
+   "red" : [
+      {
+         "stop" : 3,
+         "login" : "dude",
+         "score" : 400,
+         "pass" : 1,
+         "shot" : 4,
+         "goal" : 2,
+         "type" : "bot"
+      },
+      {
+         "shot" : 4,
+         "pass" : 0,
+         "goal" : 3,
+         "type" : "bot",
+         "stop" : 0,
+         "login" : "marley",
+         "score" : 275
+      },
+      {
+         "score" : 25,
+         "login" : "slider",
+         "stop" : 0,
+         "type" : "bot",
+         "goal" : 0,
+         "shot" : 0,
+         "pass" : 1
+      }
+   ],
+   "date" : "2019-02-18 14:55:00"
+}
