@@ -1,0 +1,53 @@
+{
+   "level" : "impossible",
+   "red" : [
+      {
+         "pass" : 0,
+         "login" : "tusk",
+         "type" : "bot",
+         "shot" : 0,
+         "goal" : 0,
+         "stop" : 2,
+         "score" : 145
+      },
+      {
+         "goal" : 0,
+         "stop" : 0,
+         "score" : 55,
+         "login" : "c-block",
+         "pass" : 0,
+         "type" : "bot",
+         "shot" : 0
+      },
+      {
+         "goal" : 0,
+         "stop" : 0,
+         "score" : 20,
+         "pass" : 0,
+         "type" : "bot",
+         "login" : "scout",
+         "shot" : 0
+      }
+   ],
+   "blue" : [
+      {
+         "stop" : 0,
+         "goal" : 2,
+         "score" : 385,
+         "login" : "jp",
+         "pass" : 0,
+         "type" : "human",
+         "shot" : 6
+      },
+      {
+         "shot" : 1,
+         "pass" : 0,
+         "type" : "human",
+         "login" : "magneto",
+         "score" : 75,
+         "goal" : 0,
+         "stop" : 0
+      }
+   ],
+   "date" : "2019-02-20 11:58:00"
+}

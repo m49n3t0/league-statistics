@@ -1,0 +1,53 @@
+{
+   "red" : [
+      {
+         "goal" : 1,
+         "stop" : 2,
+         "login" : "bandit",
+         "type" : "bot",
+         "shot" : 1,
+         "score" : 155,
+         "pass" : 0
+      },
+      {
+         "login" : "tusk",
+         "stop" : 0,
+         "goal" : 0,
+         "pass" : 0,
+         "score" : 65,
+         "shot" : 2,
+         "type" : "bot"
+      },
+      {
+         "login" : "saltie",
+         "goal" : 0,
+         "stop" : 0,
+         "type" : "bot",
+         "pass" : 0,
+         "shot" : 0,
+         "score" : 40
+      }
+   ],
+   "level" : "impossible",
+   "blue" : [
+      {
+         "login" : "jp",
+         "stop" : 0,
+         "goal" : 2,
+         "type" : "human",
+         "pass" : 2,
+         "shot" : 4,
+         "score" : 410
+      },
+      {
+         "goal" : 3,
+         "stop" : 0,
+         "login" : "magneto",
+         "type" : "human",
+         "shot" : 4,
+         "score" : 285,
+         "pass" : 1
+      }
+   ],
+   "date" : "2019-02-20 11:44:00"
+}
