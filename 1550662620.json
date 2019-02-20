@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "stop" : 1,
+         "login" : "jp",
+         "type" : "human",
+         "score" : 405,
+         "goal" : 2,
+         "shot" : 4,
+         "pass" : 0
+      },
+      {
+         "score" : 170,
+         "shot" : 3,
+         "goal" : 2,
+         "pass" : 0,
+         "stop" : 0,
+         "login" : "magneto",
+         "type" : "human"
+      }
+   ],
+   "red" : [
+      {
+         "type" : "bot",
+         "login" : "maverick",
+         "stop" : 0,
+         "pass" : 0,
+         "shot" : 3,
+         "goal" : 2,
+         "score" : 180
+      },
+      {
+         "type" : "bot",
+         "login" : "viper",
+         "stop" : 1,
+         "pass" : 0,
+         "shot" : 0,
+         "goal" : 0,
+         "score" : 100
+      },
+      {
+         "goal" : 0,
+         "shot" : 0,
+         "score" : 35,
+         "pass" : 1,
+         "stop" : 0,
+         "type" : "bot",
+         "login" : "swabbie"
+      }
+   ],
+   "date" : "2019-02-20 11:37:00",
+   "level" : "impossible"
+}
