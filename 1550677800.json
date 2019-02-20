@@ -1,0 +1,44 @@
+{
+   "date" : "2019-02-20 15:50",
+   "red" : [
+      {
+         "login" : "rainmaker",
+         "score" : 305,
+         "shot" : 5,
+         "pass" : 0,
+         "type" : "bot",
+         "goal" : 2,
+         "stop" : 1
+      },
+      {
+         "score" : 120,
+         "shot" : 0,
+         "login" : "slider",
+         "goal" : 1,
+         "stop" : 0,
+         "pass" : 0,
+         "type" : "bot"
+      }
+   ],
+   "blue" : [
+      {
+         "login" : "magneto",
+         "score" : 565,
+         "shot" : 5,
+         "type" : "human",
+         "pass" : 1,
+         "goal" : 5,
+         "stop" : 0
+      },
+      {
+         "shot" : 5,
+         "score" : 480,
+         "login" : "goldenboy",
+         "stop" : 0,
+         "goal" : 4,
+         "type" : "human",
+         "pass" : 1
+      }
+   ],
+   "level" : "allstar"
+}

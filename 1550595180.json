@@ -1,0 +1,53 @@
+{
+   "date" : "2019-02-19 16:53",
+   "blue" : [
+      {
+         "goal" : 3,
+         "type" : "human",
+         "shot" : 4,
+         "score" : 445,
+         "login" : "magneto",
+         "stop" : 2,
+         "pass" : 1
+      },
+      {
+         "login" : "antz",
+         "score" : 190,
+         "stop" : 0,
+         "pass" : 0,
+         "goal" : 1,
+         "type" : "human",
+         "shot" : 4
+      }
+   ],
+   "red" : [
+      {
+         "shot" : 3,
+         "type" : "bot",
+         "goal" : 1,
+         "pass" : 0,
+         "stop" : 2,
+         "score" : 180,
+         "login" : "roundhouse"
+      },
+      {
+         "shot" : 2,
+         "type" : "bot",
+         "goal" : 0,
+         "pass" : 1,
+         "stop" : 0,
+         "score" : 130,
+         "login" : "khan"
+      },
+      {
+         "stop" : 0,
+         "pass" : 0,
+         "login" : "storm",
+         "score" : 60,
+         "shot" : 0,
+         "goal" : 0,
+         "type" : "bot"
+      }
+   ],
+   "level" : "impossible"
+}

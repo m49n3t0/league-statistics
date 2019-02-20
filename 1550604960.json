@@ -1,0 +1,44 @@
+{
+   "blue" : [
+      {
+         "login" : "magneto",
+         "stop" : 0,
+         "type" : "human",
+         "score" : 615,
+         "shot" : 7,
+         "pass" : 0,
+         "goal" : 6
+      },
+      {
+         "goal" : 0,
+         "pass" : 2,
+         "type" : "bot",
+         "score" : 155,
+         "shot" : 1,
+         "stop" : 0,
+         "login" : "swabbie"
+      }
+   ],
+   "red" : [
+      {
+         "goal" : 0,
+         "pass" : 0,
+         "shot" : 0,
+         "type" : "bot",
+         "score" : 40,
+         "login" : "buzz",
+         "stop" : 0
+      },
+      {
+         "pass" : 0,
+         "goal" : 0,
+         "stop" : 2,
+         "login" : "marc",
+         "type" : "human",
+         "score" : 105,
+         "shot" : 0
+      }
+   ],
+   "date" : "2019-02-19 19:36",
+   "level" : "pro"
+}

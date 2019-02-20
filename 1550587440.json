@@ -1,0 +1,44 @@
+{
+   "level" : "allstar",
+   "blue" : [
+      {
+         "type" : "human",
+         "goal" : 1,
+         "pass" : 1,
+         "shot" : 4,
+         "score" : 220,
+         "login" : "magneto",
+         "stop" : 0
+      },
+      {
+         "shot" : 2,
+         "score" : 185,
+         "login" : "goldenboy",
+         "stop" : 0,
+         "type" : "human",
+         "goal" : 1,
+         "pass" : 1
+      }
+   ],
+   "date" : "2019-02-19 14:44",
+   "red" : [
+      {
+         "pass" : 0,
+         "goal" : 3,
+         "type" : "bot",
+         "stop" : 1,
+         "score" : 365,
+         "login" : "storm",
+         "shot" : 3
+      },
+      {
+         "type" : "bot",
+         "goal" : 2,
+         "pass" : 1,
+         "shot" : 3,
+         "score" : 280,
+         "login" : "mountain",
+         "stop" : 0
+      }
+   ]
+}

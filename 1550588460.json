@@ -1,0 +1,44 @@
+{
+   "date" : "2019-02-19 15:01",
+   "blue" : [
+      {
+         "score" : 425,
+         "pass" : 0,
+         "goal" : 3,
+         "shot" : 6,
+         "type" : "human",
+         "stop" : 0,
+         "login" : "magneto"
+      },
+      {
+         "login" : "goldenboy",
+         "stop" : 0,
+         "type" : "human",
+         "shot" : 3,
+         "goal" : 2,
+         "score" : 240,
+         "pass" : 1
+      }
+   ],
+   "level" : "allstar",
+   "red" : [
+      {
+         "login" : "sultan",
+         "score" : 155,
+         "pass" : 0,
+         "goal" : 1,
+         "shot" : 1,
+         "type" : "bot",
+         "stop" : 1
+      },
+      {
+         "shot" : 1,
+         "type" : "bot",
+         "stop" : 2,
+         "pass" : 1,
+         "score" : 120,
+         "goal" : 0,
+         "login" : "rainmaker"
+      }
+   ]
+}

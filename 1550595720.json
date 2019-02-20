@@ -1,0 +1,53 @@
+{
+   "date" : "2019-02-19 17:02",
+   "red" : [
+      {
+         "login" : "stinger",
+         "type" : "bot",
+         "shot" : 1,
+         "goal" : 1,
+         "stop" : 0,
+         "pass" : 0,
+         "score" : 130
+      },
+      {
+         "shot" : 2,
+         "type" : "bot",
+         "login" : "cougar",
+         "score" : 105,
+         "goal" : 0,
+         "stop" : 1,
+         "pass" : 0
+      },
+      {
+         "score" : 55,
+         "stop" : 1,
+         "pass" : 0,
+         "goal" : 0,
+         "shot" : 0,
+         "type" : "bot",
+         "login" : "marley"
+      }
+   ],
+   "level" : "impossible",
+   "blue" : [
+      {
+         "pass" : 0,
+         "stop" : 1,
+         "goal" : 5,
+         "score" : 595,
+         "login" : "antz",
+         "type" : "human",
+         "shot" : 6
+      },
+      {
+         "login" : "magneto",
+         "shot" : 4,
+         "type" : "human",
+         "stop" : 0,
+         "pass" : 1,
+         "goal" : 3,
+         "score" : 355
+      }
+   ]
+}

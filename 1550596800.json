@@ -1,0 +1,44 @@
+{
+   "date" : "2019-02-19 17:20",
+   "red" : [
+      {
+         "score" : 110,
+         "shot" : 1,
+         "pass" : 1,
+         "type" : "bot",
+         "goal" : 0,
+         "login" : "tex",
+         "stop" : 0
+      },
+      {
+         "stop" : 0,
+         "login" : "marc",
+         "goal" : 3,
+         "pass" : 0,
+         "type" : "human",
+         "shot" : 3,
+         "score" : 320
+      }
+   ],
+   "blue" : [
+      {
+         "pass" : 0,
+         "type" : "human",
+         "goal" : 6,
+         "score" : 585,
+         "shot" : 5,
+         "stop" : 1,
+         "login" : "magneto"
+      },
+      {
+         "shot" : 0,
+         "score" : 65,
+         "pass" : 0,
+         "goal" : 1,
+         "type" : "bot",
+         "login" : "rainmaker",
+         "stop" : 0
+      }
+   ],
+   "level" : "pro"
+}

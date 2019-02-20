@@ -1,0 +1,44 @@
+{
+   "red" : [
+      {
+         "type" : "bot",
+         "stop" : 3,
+         "shot" : 6,
+         "goal" : 3,
+         "pass" : 0,
+         "score" : 430,
+         "login" : "hound"
+      },
+      {
+         "shot" : 4,
+         "type" : "bot",
+         "stop" : 0,
+         "goal" : 1,
+         "pass" : 1,
+         "login" : "outlaw",
+         "score" : 165
+      }
+   ],
+   "blue" : [
+      {
+         "stop" : 2,
+         "type" : "human",
+         "shot" : 5,
+         "pass" : 0,
+         "goal" : 4,
+         "score" : 505,
+         "login" : "magneto"
+      },
+      {
+         "stop" : 1,
+         "type" : "human",
+         "shot" : 4,
+         "login" : "goldenboy",
+         "pass" : 1,
+         "goal" : 1,
+         "score" : 230
+      }
+   ],
+   "level" : "allstar",
+   "date" : "2019-02-19 14:53"
+}
