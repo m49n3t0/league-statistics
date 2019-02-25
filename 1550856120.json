@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "stop" : 0,
+         "shot" : 5,
+         "pass" : 1,
+         "login" : "jp",
+         "type" : "human",
+         "goal" : 2,
+         "score" : 255
+      },
+      {
+         "stop" : 2,
+         "shot" : 1,
+         "type" : "human",
+         "login" : "magneto",
+         "pass" : 0,
+         "score" : 265,
+         "goal" : 2
+      }
+   ],
+   "level" : "impossible",
+   "red" : [
+      {
+         "type" : "bot",
+         "login" : "chipper",
+         "pass" : 0,
+         "shot" : 3,
+         "stop" : 0,
+         "score" : 360,
+         "goal" : 3
+      },
+      {
+         "score" : 220,
+         "goal" : 1,
+         "login" : "yuri",
+         "type" : "bot",
+         "pass" : 1,
+         "stop" : 1,
+         "shot" : 5
+      },
+      {
+         "stop" : 0,
+         "shot" : 1,
+         "pass" : 1,
+         "login" : "poncho",
+         "type" : "bot",
+         "score" : 125,
+         "goal" : 1
+      }
+   ],
+   "date" : "2019-02-22 17:22:00"
+}
