@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "login" : "jp",
+         "pass" : 1,
+         "stop" : 0,
+         "goal" : 3,
+         "shot" : 5,
+         "score" : 410,
+         "type" : "human"
+      },
+      {
+         "shot" : 2,
+         "goal" : 2,
+         "score" : 190,
+         "type" : "human",
+         "login" : "magneto",
+         "pass" : 0,
+         "stop" : 0
+      }
+   ],
+   "date" : "2019-02-25 17:16:00",
+   "red" : [
+      {
+         "shot" : 0,
+         "goal" : 1,
+         "score" : 155,
+         "type" : "bot",
+         "login" : "sabretooth",
+         "pass" : 0,
+         "stop" : 2
+      },
+      {
+         "type" : "bot",
+         "goal" : 0,
+         "shot" : 1,
+         "score" : 75,
+         "stop" : 0,
+         "login" : "casper",
+         "pass" : 0
+      },
+      {
+         "pass" : 0,
+         "login" : "beast",
+         "stop" : 0,
+         "score" : 30,
+         "goal" : 0,
+         "shot" : 0,
+         "type" : "bot"
+      }
+   ],
+   "level" : "impossible"
+}
