@@ -1,0 +1,53 @@
+{
+   "blue" : [
+      {
+         "type" : "human",
+         "pass" : 1,
+         "login" : "jp",
+         "stop" : 3,
+         "score" : 325,
+         "shot" : 3,
+         "goal" : 2
+      },
+      {
+         "type" : "human",
+         "pass" : 1,
+         "login" : "magneto",
+         "stop" : 0,
+         "shot" : 4,
+         "score" : 245,
+         "goal" : 1
+      }
+   ],
+   "level" : "impossible",
+   "red" : [
+      {
+         "pass" : 1,
+         "login" : "samara",
+         "type" : "bot",
+         "shot" : 5,
+         "score" : 300,
+         "goal" : 2,
+         "stop" : 0
+      },
+      {
+         "type" : "bot",
+         "pass" : 1,
+         "login" : "viper",
+         "stop" : 1,
+         "score" : 245,
+         "shot" : 3,
+         "goal" : 2
+      },
+      {
+         "stop" : 1,
+         "goal" : 1,
+         "shot" : 3,
+         "score" : 180,
+         "type" : "bot",
+         "pass" : 0,
+         "login" : "foamer"
+      }
+   ],
+   "date" : "2019-02-21 18:35:00"
+}
