@@ -1,0 +1,53 @@
+{
+   "red" : [
+      {
+         "login" : "stinger",
+         "shot" : 2,
+         "type" : "bot",
+         "pass" : 0,
+         "score" : 165,
+         "goal" : 2,
+         "stop" : 1
+      },
+      {
+         "stop" : 0,
+         "score" : 160,
+         "pass" : 2,
+         "goal" : 1,
+         "login" : "centice",
+         "type" : "bot",
+         "shot" : 1
+      },
+      {
+         "login" : "hollywood",
+         "type" : "bot",
+         "shot" : 0,
+         "stop" : 0,
+         "score" : 35,
+         "pass" : 0,
+         "goal" : 0
+      }
+   ],
+   "date" : "2019-02-20 16:41:00",
+   "level" : "impossible",
+   "blue" : [
+      {
+         "stop" : 0,
+         "pass" : 2,
+         "score" : 535,
+         "goal" : 4,
+         "type" : "human",
+         "shot" : 5,
+         "login" : "jp"
+      },
+      {
+         "stop" : 0,
+         "pass" : 1,
+         "score" : 380,
+         "goal" : 4,
+         "type" : "human",
+         "shot" : 4,
+         "login" : "magneto"
+      }
+   ]
+}
