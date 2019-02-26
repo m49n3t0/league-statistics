@@ -1,0 +1,53 @@
+{
+   "red" : [
+      {
+         "type" : "bot",
+         "login" : "storm",
+         "shot" : 2,
+         "score" : 255,
+         "goal" : 2,
+         "pass" : 0,
+         "stop" : 1
+      },
+      {
+         "shot" : 3,
+         "type" : "bot",
+         "login" : "samara",
+         "pass" : 1,
+         "goal" : 2,
+         "score" : 200,
+         "stop" : 0
+      },
+      {
+         "stop" : 1,
+         "type" : "bot",
+         "login" : "sticks",
+         "shot" : 0,
+         "goal" : 0,
+         "score" : 75,
+         "pass" : 0
+      }
+   ],
+   "level" : "impossible",
+   "blue" : [
+      {
+         "goal" : 3,
+         "score" : 520,
+         "pass" : 2,
+         "login" : "jp",
+         "type" : "human",
+         "shot" : 7,
+         "stop" : 0
+      },
+      {
+         "pass" : 1,
+         "goal" : 4,
+         "score" : 385,
+         "shot" : 5,
+         "login" : "magneto",
+         "type" : "human",
+         "stop" : 0
+      }
+   ],
+   "date" : "2019-02-25 10:17:00"
+}

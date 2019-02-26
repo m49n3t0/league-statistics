@@ -1,0 +1,53 @@
+{
+   "level" : "impossible",
+   "blue" : [
+      {
+         "goal" : 1,
+         "login" : "jp",
+         "pass" : 2,
+         "stop" : 1,
+         "score" : 280,
+         "shot" : 1,
+         "type" : "human"
+      },
+      {
+         "type" : "human",
+         "shot" : 4,
+         "goal" : 2,
+         "login" : "magneto",
+         "score" : 195,
+         "stop" : 0,
+         "pass" : 0
+      }
+   ],
+   "date" : "2019-02-22 14:13:00",
+   "red" : [
+      {
+         "score" : 105,
+         "pass" : 0,
+         "stop" : 0,
+         "goal" : 1,
+         "login" : "maverick",
+         "type" : "bot",
+         "shot" : 1
+      },
+      {
+         "type" : "bot",
+         "shot" : 0,
+         "score" : 80,
+         "stop" : 1,
+         "pass" : 0,
+         "goal" : 0,
+         "login" : "khan"
+      },
+      {
+         "shot" : 1,
+         "type" : "bot",
+         "goal" : 0,
+         "login" : "sticks",
+         "pass" : 0,
+         "stop" : 0,
+         "score" : 30
+      }
+   ]
+}

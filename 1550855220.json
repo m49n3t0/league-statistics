@@ -1,0 +1,53 @@
+{
+   "red" : [
+      {
+         "score" : 205,
+         "pass" : 0,
+         "stop" : 0,
+         "login" : "hollywood",
+         "type" : "bot",
+         "shot" : 3,
+         "goal" : 2
+      },
+      {
+         "goal" : 1,
+         "shot" : 1,
+         "type" : "bot",
+         "score" : 200,
+         "stop" : 1,
+         "login" : "bandit",
+         "pass" : 2
+      },
+      {
+         "shot" : 2,
+         "goal" : 1,
+         "score" : 160,
+         "login" : "beast",
+         "stop" : 1,
+         "pass" : 0,
+         "type" : "bot"
+      }
+   ],
+   "level" : "impossible",
+   "date" : "2019-02-22 17:07:00",
+   "blue" : [
+      {
+         "type" : "human",
+         "score" : 535,
+         "stop" : 0,
+         "pass" : 0,
+         "login" : "jp",
+         "goal" : 5,
+         "shot" : 7
+      },
+      {
+         "shot" : 4,
+         "goal" : 2,
+         "pass" : 3,
+         "stop" : 0,
+         "login" : "magneto",
+         "score" : 400,
+         "type" : "human"
+      }
+   ]
+}
