@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-27 16:15:00",
+	"level": "impossible",
+	"red": [{
+		"login": "outlaw",
+		"type": "bot",
+		"score": 310,
+		"goal": 2,
+		"pass": 0,
+		"stop": 2,
+		"shot": 2
+	}, {
+		"login": "samara",
+		"type": "bot",
+		"score": 235,
+		"goal": 2,
+		"pass": 0,
+		"stop": 2,
+		"shot": 3
+	}, {
+		"login": "tex",
+		"type": "bot",
+		"score": 140,
+		"goal": 0,
+		"pass": 0,
+		"stop": 2,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 250,
+		"goal": 2,
+		"pass": 0,
+		"stop": 0,
+		"shot": 7
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 215,
+		"goal": 1,
+		"pass": 0,
+		"stop": 2,
+		"shot": 4
+	}]
+}
