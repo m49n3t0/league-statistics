@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-28 19:00:00",
+	"level": "impossible",
+	"red": [{
+		"login": "samara",
+		"type": "bot",
+		"score": 120,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 1
+	}, {
+		"login": "dude",
+		"type": "bot",
+		"score": 90,
+		"goal": 0,
+		"pass": 1,
+		"stop": 1,
+		"shot": 0
+	}, {
+		"login": "raja",
+		"type": "bot",
+		"score": 80,
+		"goal": 0,
+		"pass": 0,
+		"stop": 1,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 205,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 315,
+		"goal": 2,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}]
+}
