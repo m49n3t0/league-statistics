@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-28 19:11:00",
+	"level": "impossible",
+	"red": [{
+		"login": "rainmaker",
+		"type": "bot",
+		"score": 400,
+		"goal": 3,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "raja",
+		"type": "bot",
+		"score": 290,
+    "goal": 3,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "tex",
+		"type": "bot",
+		"score": 15,
+		"goal": 0,
+		"pass": 0,
+		"stop": 0,
+		"shot": 0
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 175,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 335,
+		"goal": 4,
+		"pass": 0,
+		"stop": 0,
+		"shot": 3
+	}]
+}
