@@ -1,0 +1,46 @@
+{
+	"date": "2019-02-28 19:40:00",
+	"level": "impossible",
+	"red": [{
+		"login": "sultan",
+		"type": "bot",
+		"score": 185,
+		"goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 3
+	}, {
+		"login": "sticks",
+		"type": "bot",
+		"score": 120,
+    "goal": 1,
+		"pass": 1,
+		"stop": 0,
+		"shot": 1
+	}, {
+		"login": "wolfman",
+		"type": "bot",
+		"score": 105,
+		"goal": 0,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}],
+	"blue": [{
+		"login": "magneto",
+		"type": "human",
+		"score": 210,
+		"goal": 1,
+		"pass": 1,
+		"stop": 1,
+		"shot": 1
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 425,
+		"goal": 3,
+		"pass": 1,
+		"stop": 0,
+		"shot": 4
+	}]
+}
