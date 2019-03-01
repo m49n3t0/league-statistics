@@ -1,0 +1,38 @@
+{
+	"date": "2019-02-26 16:02:00",
+	"level": "pro",
+	"red": [{
+		"login": "sultan",
+		"type": "bot",
+		"score": 95,
+		"goal": 0,
+		"pass": 0,
+		"stop": 2,
+		"shot": 0
+	}, {
+		"login": "middy",
+		"type": "bot",
+		"score": 60,
+		"goal": 0,
+		"pass": 0,
+		"stop": 0,
+		"shot": 1
+	}],
+	"blue": [{
+		"login": "marc",
+		"type": "human",
+		"score": 140,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 2
+	}, {
+		"login": "antz",
+		"type": "human",
+		"score": 235,
+		"goal": 1,
+		"pass": 0,
+		"stop": 0,
+		"shot": 4
+	}]
+}
